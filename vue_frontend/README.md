@@ -1,4 +1,4 @@
-# secret_server_frontend
+# vue_frontend
 
 ## Project setup
 ```
